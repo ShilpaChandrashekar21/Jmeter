@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705485633112,2013,HomePage HTTP Request,200,OK,Thread Group 1-1,text,true,,135112,121,1,1,https://www.linkedin.com/,1267,0,747
+1705485635137,1185,Inavlid LoginPage HTTP Request,404,Not Found,Thread Group 1-1,text,false,,323093,329,1,1,https://www.linkedin.com/uas/login-submit,428,0,0
+1705485636324,393,Forgot password HTTP Request,999,Request denied,Thread Group 1-1,text,false,,25318,421,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,205,0,0
+1705485636999,1655,HomePage HTTP Request,200,OK,Thread Group 1-2,text,true,,135172,121,1,1,https://www.linkedin.com/,914,0,373
+1705485638660,1018,Inavlid LoginPage HTTP Request,404,Not Found,Thread Group 1-2,text,false,,323093,329,1,1,https://www.linkedin.com/uas/login-submit,447,0,0
+1705485639680,387,Forgot password HTTP Request,999,Request denied,Thread Group 1-2,text,false,,25318,421,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,201,0,0
+1705485640997,1275,HomePage HTTP Request,200,OK,Thread Group 1-3,text,true,,135081,121,1,1,https://www.linkedin.com/,715,0,332
+1705485642278,1223,Inavlid LoginPage HTTP Request,404,Not Found,Thread Group 1-3,text,false,,323093,329,1,1,https://www.linkedin.com/uas/login-submit,460,0,0
+1705485643505,392,Forgot password HTTP Request,999,Request denied,Thread Group 1-3,text,false,,25318,421,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,205,0,0
+1705485645004,2449,HomePage HTTP Request,200,OK,Thread Group 1-4,text,true,,135380,121,1,1,https://www.linkedin.com/,1710,0,392
+1705485647458,1189,Inavlid LoginPage HTTP Request,404,Not Found,Thread Group 1-4,text,false,,323361,329,1,1,https://www.linkedin.com/uas/login-submit,455,0,0
+1705485648649,389,Forgot password HTTP Request,999,Request denied,Thread Group 1-4,text,false,,25318,421,2,2,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,203,0,0
+1705485648982,1392,HomePage HTTP Request,200,OK,Thread Group 1-5,text,true,,135081,121,1,1,https://www.linkedin.com/,756,0,403
+1705485650378,1365,Inavlid LoginPage HTTP Request,404,Not Found,Thread Group 1-5,text,false,,323093,329,1,1,https://www.linkedin.com/uas/login-submit,505,0,0
+1705485651745,443,Forgot password HTTP Request,999,Request denied,Thread Group 1-5,text,false,,25318,421,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,230,0,0

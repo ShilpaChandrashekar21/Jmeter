@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706182730101,447,HomePage HTTP Request,200,OK,FTH Thread Group 1-1,text,true,,473511,244,1,1,https://www.freshtohome.com/,146,0,114
+1706182730101,146,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-1,,true,,696,120,1,1,https://freshtohome.com/,146,0,114
+1706182730248,300,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-1,text,true,,472815,124,1,1,https://www.freshtohome.com/,266,0,167
+1706182732085,357,HomePage HTTP Request,200,OK,FTH Thread Group 1-2,text,true,,473502,244,1,1,https://www.freshtohome.com/,100,0,70
+1706182732085,100,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-2,,true,,684,120,1,1,https://freshtohome.com/,100,0,70
+1706182732186,256,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-2,text,true,,472818,124,1,1,https://www.freshtohome.com/,205,0,71
+1706182734087,299,HomePage HTTP Request,200,OK,FTH Thread Group 1-3,text,true,,473503,244,1,1,https://www.freshtohome.com/,82,0,59
+1706182734087,82,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-3,,true,,690,120,1,1,https://freshtohome.com/,82,0,59
+1706182734171,215,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-3,text,true,,472813,124,1,1,https://www.freshtohome.com/,174,0,58
+1706182736087,408,HomePage HTTP Request,200,OK,FTH Thread Group 1-4,text,true,,473483,244,1,1,https://www.freshtohome.com/,102,0,72
+1706182736087,102,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-4,,true,,688,120,1,1,https://freshtohome.com/,102,0,72
+1706182736190,305,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-4,text,true,,472795,124,1,1,https://www.freshtohome.com/,267,0,57
+1706182738102,325,HomePage HTTP Request,200,OK,FTH Thread Group 1-5,text,true,,473479,244,1,1,https://www.freshtohome.com/,103,0,80
+1706182738102,103,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-5,,true,,682,120,1,1,https://freshtohome.com/,103,0,80
+1706182738207,220,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-5,text,true,,472797,124,1,1,https://www.freshtohome.com/,173,0,58
+1706182740085,563,HomePage HTTP Request,200,OK,FTH Thread Group 1-6,text,true,,473505,244,1,1,https://www.freshtohome.com/,116,0,84
+1706182740085,116,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-6,,true,,686,120,1,1,https://freshtohome.com/,116,0,84
+1706182740202,446,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-6,text,true,,472819,124,1,1,https://www.freshtohome.com/,356,0,56
+1706182742120,398,HomePage HTTP Request,200,OK,FTH Thread Group 1-7,text,true,,473491,244,1,1,https://www.freshtohome.com/,152,0,124
+1706182742120,152,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-7,,true,,694,120,1,1,https://freshtohome.com/,152,0,124
+1706182742274,244,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-7,text,true,,472797,124,1,1,https://www.freshtohome.com/,197,0,56
+1706182744100,324,HomePage HTTP Request,200,OK,FTH Thread Group 1-8,text,true,,473479,244,1,1,https://www.freshtohome.com/,76,0,53
+1706182744100,76,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-8,,true,,684,120,1,1,https://freshtohome.com/,76,0,53
+1706182744177,247,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-8,text,true,,472795,124,1,1,https://www.freshtohome.com/,196,0,83
+1706182746102,345,HomePage HTTP Request,200,OK,FTH Thread Group 1-9,text,true,,473489,244,1,1,https://www.freshtohome.com/,132,0,95
+1706182746102,132,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-9,,true,,682,120,1,1,https://freshtohome.com/,132,0,95
+1706182746235,212,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-9,text,true,,472807,124,1,1,https://www.freshtohome.com/,178,0,56
+1706182748102,308,HomePage HTTP Request,200,OK,FTH Thread Group 1-10,text,true,,473488,244,1,1,https://www.freshtohome.com/,76,0,50
+1706182748102,76,HomePage HTTP Request-0,302,Moved Temporarily,FTH Thread Group 1-10,,true,,682,120,1,1,https://freshtohome.com/,76,0,50
+1706182748179,231,HomePage HTTP Request-1,200,OK,FTH Thread Group 1-10,text,true,,472806,124,1,1,https://www.freshtohome.com/,197,0,93

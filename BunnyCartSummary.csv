@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705295329371,638,Home Page HTTP Request,200,OK,Thread Group 1-1,text,true,,214799,240,1,1,https://www.bunnycart.com/,278,0,85
+1705295329371,278,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,1356,118,1,1,https://bunnycart.com/,278,0,85
+1705295329651,358,Home Page HTTP Request-1,200,OK,Thread Group 1-1,text,true,,213443,122,1,1,https://www.bunnycart.com/,347,0,104
+1705295334356,1316,Home Page HTTP Request,200,OK,Thread Group 1-2,text,false,"The operation lasted too long: It took 1,316 milliseconds, but should not have lasted longer than 1,000 milliseconds.",214798,240,1,1,https://www.bunnycart.com/,574,0,157
+1705295334356,574,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,1360,118,1,1,https://bunnycart.com/,574,0,157
+1705295334931,741,Home Page HTTP Request-1,200,OK,Thread Group 1-2,text,true,,213438,122,1,1,https://www.bunnycart.com/,648,0,171
+1705295339357,770,Home Page HTTP Request,200,OK,Thread Group 1-3,text,true,,214783,240,1,1,https://www.bunnycart.com/,395,0,109
+1705295339357,395,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,1348,118,1,1,https://bunnycart.com/,395,0,109
+1705295339754,373,Home Page HTTP Request-1,200,OK,Thread Group 1-3,text,true,,213435,122,1,1,https://www.bunnycart.com/,352,0,72
+1705295344371,644,Home Page HTTP Request,200,OK,Thread Group 1-4,text,true,,214781,240,1,1,https://www.bunnycart.com/,318,0,112
+1705295344371,318,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,1346,118,1,1,https://bunnycart.com/,318,0,112
+1705295344690,325,Home Page HTTP Request-1,200,OK,Thread Group 1-4,text,true,,213435,122,1,1,https://www.bunnycart.com/,303,0,81
+1705295349372,1332,Home Page HTTP Request,200,OK,Thread Group 1-5,text,false,"The operation lasted too long: It took 1,332 milliseconds, but should not have lasted longer than 1,000 milliseconds.",214779,240,1,1,https://www.bunnycart.com/,534,0,96
+1705295349372,534,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,1354,118,1,1,https://bunnycart.com/,534,0,96
+1705295349908,796,Home Page HTTP Request-1,200,OK,Thread Group 1-5,text,true,,213425,122,1,1,https://www.bunnycart.com/,708,0,182
+1705296597394,1099,Home Page HTTP Request,200,OK,Thread Group 1-1,text,true,,214901,240,1,1,https://www.bunnycart.com/,341,0,101
+1705296597394,341,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,1356,118,1,1,https://bunnycart.com/,341,0,101
+1705296597736,757,Home Page HTTP Request-1,200,OK,Thread Group 1-1,text,true,,213545,122,1,1,https://www.bunnycart.com/,678,0,168
+1705296602389,1023,Home Page HTTP Request,200,OK,Thread Group 1-2,text,true,,214885,240,1,1,https://www.bunnycart.com/,276,0,75
+1705296602389,276,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,1352,118,1,1,https://bunnycart.com/,276,0,75
+1705296602666,746,Home Page HTTP Request-1,200,OK,Thread Group 1-2,text,true,,213533,122,1,1,https://www.bunnycart.com/,609,0,151
+1705296607387,1496,Home Page HTTP Request,200,OK,Thread Group 1-3,text,true,,214891,240,1,1,https://www.bunnycart.com/,687,0,195
+1705296607387,687,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,1348,118,1,1,https://bunnycart.com/,687,0,195
+1705296608075,808,Home Page HTTP Request-1,200,OK,Thread Group 1-3,text,true,,213543,122,1,1,https://www.bunnycart.com/,639,0,153
+1705296612387,886,Home Page HTTP Request,200,OK,Thread Group 1-4,text,true,,214889,240,1,1,https://www.bunnycart.com/,569,0,145
+1705296612387,569,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,1354,118,1,1,https://bunnycart.com/,569,0,145
+1705296612958,315,Home Page HTTP Request-1,200,OK,Thread Group 1-4,text,true,,213535,122,1,1,https://www.bunnycart.com/,291,0,71
+1705296617390,1125,Home Page HTTP Request,200,OK,Thread Group 1-5,text,true,,214892,240,1,1,https://www.bunnycart.com/,337,0,83
+1705296617390,337,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,1354,118,1,1,https://bunnycart.com/,337,0,83
+1705296617729,786,Home Page HTTP Request-1,200,OK,Thread Group 1-5,text,true,,213538,122,1,1,https://www.bunnycart.com/,683,0,175

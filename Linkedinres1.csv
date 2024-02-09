@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705475150596,2077,HomePage HTTP Request,200,OK,Thread Group 1-1,text,true,,135081,121,1,1,https://www.linkedin.com/,1324,0,936
+1705475152699,1545,Inavlid LoginPage HTTP Request,404,Not Found,Thread Group 1-1,text,false,,323093,329,1,1,https://www.linkedin.com/uas/login-submit,551,0,0
+1705475154247,511,Forgot password HTTP Request,999,Request denied,Thread Group 1-1,text,false,,25318,421,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,278,0,0
